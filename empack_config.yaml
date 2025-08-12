@@ -1,4 +1,7 @@
 packages:
-  r-base:
+  numpy:
     include_patterns:
-    - pattern: '**/*'
+    - pattern: '**/*.pyx'
+    - pattern: '**/*.pyc'
+    - pattern: '**/*.typed'
+    - pattern: '**/*.egg-info'
