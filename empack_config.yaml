@@ -1,5 +1,5 @@
 packages:
-  numpy:
+  r-base:
     include_patterns:
     - pattern: '**/*.pyx'
     - pattern: '**/*.pyc'
