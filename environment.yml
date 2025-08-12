@@ -5,5 +5,4 @@ channels:
 dependencies:
   - xeus-python
   - xeus-r
-  - numpy
   - r-dplyr
