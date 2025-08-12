@@ -6,3 +6,4 @@ dependencies:
   - xeus-python
   - xeus-r
   - r-dplyr
+  - numpy
