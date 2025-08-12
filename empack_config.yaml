@@ -1,0 +1,4 @@
+packages:
+  r-dplyr:
+    include_patterns:
+      - pattern: '**/*'
