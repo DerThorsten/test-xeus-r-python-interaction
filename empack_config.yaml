@@ -1,7 +1,4 @@
 packages:
   numpy:
-    include_patterns:
-    - pattern: '**/*.pyx'
-    - pattern: '**/*.pyc'
-    - pattern: '**/*.typed'
-    - pattern: '**/*.egg-info'
+    exclude_patterns:
+      - pattern: '**/*'
