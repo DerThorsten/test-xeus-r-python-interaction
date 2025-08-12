@@ -1,7 +1,4 @@
 packages:
   r-base:
     include_patterns:
-    - pattern: '**/*.pyx'
-    - pattern: '**/*.pyc'
-    - pattern: '**/*.typed'
-    - pattern: '**/*.egg-info'
+    - pattern: '**/*'
